@@ -19,7 +19,7 @@ func main() {
 
 	area := LENGTH * WIDTH
 	fmt.Printf("面积为:%d\n", area)
-	println("fuxing")
+	println("fuxing123")
 	println(a, b, c, d, e, f, g, h, i, j)
 	fmt.Println("Hello, World!")
 	fmt.Println(utools.Max(1, 2))
