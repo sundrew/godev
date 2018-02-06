@@ -31,13 +31,13 @@ func main() {
 	//	 	\n
 	//`
 	//var (
-	//	a int
+	//	a int32
 	//	b int32
 	//	c []byte
 	//)
 	//c = []byte(str)
 	//c[0] = 't'
-	//fmt.Printf("string c is %v\n", string(c))
+	fmt.Printf("string c is %v\n", string(c))
 	//fmt.Printf("raw string is %v\n", rawstr[2:len(rawstr)-1])
 	//fmt.Printf("a:%v b:%v", a, b)
 }
